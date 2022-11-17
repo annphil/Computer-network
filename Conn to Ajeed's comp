@@ -1,0 +1,123 @@
+mec@CC-1-5:~$ ssh mec@192.168.2.56
+The authenticity of host '192.168.2.56 (192.168.2.56)' can't be established.
+ECDSA key fingerprint is SHA256:8opnXAtpS76eWMsIWUlOvXVwTkWd+8W+ZL6ITKjhL1c.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '192.168.2.56' (ECDSA) to the list of known hosts.
+mec@192.168.2.56's password: 
+Linux cc-1-4 4.9.0-13-amd64 #1 SMP Debian 4.9.228-1 (2020-07-05) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+You have mail.
+Last login: Mon Oct 31 15:21:58 2022 from 192.168.2.57
+mec@cc-1-4:~$ ls
+1216449.png         leapyr.sh
+165017.jpg          lex.yy.c
+20CSA55             linkstate.c
+A.class             lsp.c
+A.java              lsr.c
+alanc6a             Mail
+Amith08.pdf         Main.class
+a.out               Main.java
+argc                manager.class
+argv                matrix.class
+arp.png             matrix.java
+bashrc              MatrixMultiplicationExample.class
+car.data            M.class
+ch7.1.png           mike.txt
+charfreq.class      NBA personal file front page Anjana.docx
+charfreq.java       numbers.pdf
+charocc.class       O.class
+charocc.java        officer.class
+client.c            op_transaction
+code.l              origin
+code.y              original
+CS3A18              output
+CS3A53              palindrome.class
+CS3A66              Palindrome.class
+CS3B30              palindrome.java
+CS3B61              pas.c
+CS4A29              ping.png
+CS6A41              pks
+CV Anjana.docx      Pledge.pdf
+CV Anjana.pdf       polymor2.class
+cv format.docx      polymor2.java
+ddlock avoidance.c  polymor.java
+ddlockavoidance.c   polymorphismin.java
+def                 polymorphism.java
+department.class    prgrm1.c
+distvector.c        priority.c
+Downloads           pso,peo,po review Minutes.docx
+DVR                 pso,peo,po review Minutes Feb 21.docx
+DVR.c               ReadFile.class
+E.class             ReadFile.java
+emilincs5b          ReadWrite.class
+employee.class      ReadWrite.java
+Employee.class      Rectangle.class
+employeee.class     Reverse-Shell
+employeee.java      roundrobin.c
+employee.java       s3-java-lab
+FAYAZ               Screenshot from 2022-05-10 10-28-01.png
+fibo2.class         Screenshot from 2022-05-10 11-46-37.png
+fibo2.java          Screenshot from 2022-05-13 14-56-09.png
+fibo.java           Screenshot from 2022-05-13 15-00-33.png
+fileexcp.class      Screenshot from 2022-05-23 13-47-46.png
+fileexcp.java       Screenshot from 2022-06-27 13-57-44.png
+filehandle.class    Screenshot from 2022-10-17 11-48-49.png
+filehandle.java     Screenshot from 2022-11-03 14-14-22.png
+FIle.java           Screenshot from 2022-11-03 14-14-26.png
+First.class         Screenshot from 2022-11-15 10-43-47.png
+First.java          Screenshot from 2022-11-16 12-06-32.png
+fork1.c             semaphore.c
+fork.c              server.c
+frequency.class     Shape.class
+Frequency.class     ss -lt.png
+frequency.java      stream.class
+GarbageC.class      stream.java
+garbageC.java       stru.c
+GarbageC.java       student.class
+garbage.class       student.java
+garbage.java        substring.l
+ge                  sumegh
+ghi                 system32
+goutham             test-1
+ha                  testout.txt
+h.c                 test.sql
+hello.class         textin2.txt
+hello.java          textin.txt
+hellow.java         tokenizer.class
+hexagon.class       tokenizer.java
+Hexagon.class       triangle.class
+hrt                 Triangle.class
+index.html          tri.c
+inherit3.class      trylsp.txt
+inherit3.java       Untitled 1.ods
+inheritance.java    Untitled 1.odt
+input.c             Untitled 2.odt
+input.txt           vishal1.class
+Ip a.png            vishal1.java
+ipc.c               vishal2.class
+ipcshared1.c        vishal2.java
+ipcshared1.c.c      vishal3.class
+ipcshared.c         vishal3.java
+jayanth             vishal.class
+lab4.class          vishal.java
+lab4.java           vowel.l
+lab5.class          y.tab.c
+leakybuc.c          y.tab.h
+mec@cc-1-4:~$ cat A.java
+import java.io.*;
+class A
+{
+    public static void main(String a[])
+    {
+        System.out.println("Hello");
+    }
+}
+     
+mec@cc-1-4:~$ nano Ajeed.txt
+mec@cc-1-4:~$ 
